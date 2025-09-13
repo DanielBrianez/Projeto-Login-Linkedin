@@ -28,7 +28,7 @@ gem install bundler
 ### 2️⃣ Clonar o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-projeto.git
+git clone https://github.com/DanielBrianez/Projeto-Login-Linkedin.git
 cd nome-do-projeto
 ```
 

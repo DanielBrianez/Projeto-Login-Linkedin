@@ -1,32 +1,64 @@
-]PT-BR]
-Primeira Experiência em Testes Manuais com Ruby
+# 🧪 Primeira Experiência em Testes Manuais com Ruby  
 
-Este projeto marca minha primeira incursão em testes manuais utilizando a linguagem Ruby. Segui um processo bem estruturado que incluiu as seguintes etapas:
+![Ruby](https://img.shields.io/badge/Ruby-3.x-red?style=flat-square&logo=ruby)  
+![Cucumber](https://img.shields.io/badge/Cucumber-BDD-success?style=flat-square&logo=cucumber)  
+![RSpec](https://img.shields.io/badge/RSpec-Testing-blue?style=flat-square)  
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=flat-square)  
 
-Definição do Test Case: Elaboração dos cenários e objetivos do teste.
-Desenvolvimento com BDD: Aplicação de Behavior-Driven Development para criar testes mais eficientes e claros.
-Instalação das Gems Necessárias: Configuração do ambiente com todas as dependências.
-Configuração e Execução do Cucumber: Ferramenta utilizada para automação e validação dos testes.
-Validação com RSpec: Análise dos resultados e confirmação da validade dos testes.
+Este projeto marca minha **primeira incursão em testes manuais utilizando a linguagem Ruby**, aplicando boas práticas e ferramentas de automação de testes.  
 
-Toda a documentação técnica e as dependências do projeto estão detalhadamente registradas.
+## 🚀 Etapas do Projeto  
+- 🧾 **Definição do Test Case** → Criação de cenários e objetivos de teste  
+- 🥒 **Desenvolvimento com BDD** → Testes mais eficientes e claros usando Behavior-Driven Development  
+- 💎 **Instalação das Gems** → Configuração do ambiente com as dependências necessárias  
+- 🏃 **Configuração e Execução do Cucumber** → Automação e validação dos testes  
+- ✅ **Validação com RSpec** → Análise dos resultados e confirmação da validade dos testes  
 
-Para mais detalhes sobre o projeto, siga-me nas redes sociais:
-Instagram: [Daniel Nascimento](https://www.instagram.com/danthedev11/#)
-LinkedIn: [Daniel Nascimento](https://www.linkedin.com/in/daniel-nascimento-2729941a8/)
+Toda a **documentação técnica** e as **dependências** do projeto estão registradas no repositório.  
 
-[ES-US]
-First Experience in Manual Testing with Ruby
-This project marks my first foray into manual testing using the Ruby language. I followed a well-structured process that included the following steps:
+## 🔧 Como Executar  
 
-Test Case Definition: Creating scenarios and objectives for the tests.
-Development with BDD: Applying Behavior-Driven Development to create more efficient and clear tests.
-Installation of Necessary Gems: Setting up the environment with all dependencies.
-Cucumber Setup and Execution: Using this tool for test automation and validation.
-Validation with RSpec: Analyzing results and confirming the validity of the tests.
+### 1️⃣ Pré-requisitos  
+- [Ruby](https://www.ruby-lang.org/) (versão 3.x ou superior)  
+- Bundler instalado:  
+```bash
+gem install bundler
+````
 
-All technical documentation and project dependencies are thoroughly recorded.
+### 2️⃣ Clonar o Repositório
 
-To get more details about the project, follow me on social:
-Instagram: [Daniel Nascimento](https://www.instagram.com/danthedev11/#)
-LinkedIn: [Daniel Nascimento](https://www.linkedin.com/in/daniel-nascimento-2729941a8/)
+```bash
+git clone https://github.com/seu-usuario/nome-do-projeto.git
+cd nome-do-projeto
+```
+
+### 3️⃣ Instalar Dependências
+
+```bash
+bundle install
+```
+
+### 4️⃣ Rodar Testes
+
+```bash
+cucumber
+```
+
+ou
+
+```bash
+rspec
+```
+
+## 📌 Habilidades Desenvolvidas
+
+✅ Criação de casos de teste manuais
+✅ Escrita de cenários BDD
+✅ Configuração de ambiente Ruby e instalação de gems
+✅ Execução e interpretação de testes automatizados
+✅ Validação de resultados com RSpec
+
+## 🌍 Conecte-se Comigo
+
+* 📸 [Instagram – Daniel Nascimento](https://www.instagram.com/danthedev11/)
+* 💼 [LinkedIn – Daniel Nascimento](https://www.linkedin.com/in/daniel-nascimento-2729941a8/)
